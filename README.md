@@ -1,0 +1,5 @@
+This project is about predicting the success of mobile apps using machine learning models such as KNN, SVM, and Random Forest Regressor.
+
+**Summary**:
+
+Today, among mobile application distribution platforms, Google Play Store stands out as one of the most attractive and user-friendly platforms for Android applications. This platform faces a significant influx of new Android applications every day. Developers put in effort using skilled individual or team work to make their new applications successful. The platform is becoming increasingly competitive for developers to maintain their positions in the market. However, this rapidly growing competitive sector can become easier for developers if they can predict the success of a new application before it is uploaded to Google Play Store. Generally, the success of an application is determined by its user rating and number of downloads. Our study aims to predict the success of a new application by estimating its user rating and download numbers before it is uploaded to Google Play Store.
